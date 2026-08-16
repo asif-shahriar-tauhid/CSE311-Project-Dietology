@@ -1,0 +1,67 @@
+{
+    "meals": [
+        {
+            "meal_log_id": 1786904775,
+            "user_id": 1,
+            "food_id": 1,
+            "food_name": "Grilled Chicken Breast",
+            "meal_type": "Snack",
+            "quantity_g": 481,
+            "calories": 793.65,
+            "protein": 149.11,
+            "carbs": 0,
+            "fat": 17.32,
+            "fiber": 0,
+            "glycemic_index": 0,
+            "logged_at": "2026-08-16 20:26:15"
+        },
+        {
+            "meal_log_id": 1786904764,
+            "user_id": 1,
+            "food_id": 8,
+            "food_name": "Steamed Broccoli",
+            "meal_type": "Snack",
+            "quantity_g": 363,
+            "calories": 127.05,
+            "protein": 8.71,
+            "carbs": 26.14,
+            "fat": 1.45,
+            "fiber": 11.98,
+            "glycemic_index": 15,
+            "logged_at": "2026-08-16 20:26:04"
+        },
+        {
+            "meal_log_id": 1,
+            "user_id": 1,
+            "food_id": 5,
+            "food_name": "Rolled Oats",
+            "meal_type": "Breakfast",
+            "quantity_g": 80,
+            "calories": 311.2,
+            "protein": 13.52,
+            "carbs": 53.04,
+            "fat": 5.52,
+            "fiber": 8.48,
+            "glycemic_index": 55,
+            "logged_at": "2026-08-16 18:25:31"
+        },
+        {
+            "meal_log_id": 2,
+            "user_id": 1,
+            "food_id": 13,
+            "food_name": "Greek Yogurt (Plain 0%)",
+            "meal_type": "Breakfast",
+            "quantity_g": 150,
+            "calories": 88.5,
+            "protein": 15.3,
+            "carbs": 5.4,
+            "fat": 0.6,
+            "fiber": 0,
+            "glycemic_index": 11,
+            "logged_at": "2026-08-16 19:25:31"
+        }
+    ],
+    "workouts": [],
+    "biometrics": [],
+    "sleep": []
+}
